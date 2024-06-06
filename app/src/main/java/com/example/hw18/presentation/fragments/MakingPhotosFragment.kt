@@ -21,7 +21,7 @@ import androidx.fragment.app.viewModels
 import androidx.lifecycle.lifecycleScope
 import com.example.hw18.presentation.viewModel.MakingPhotosViewModel
 import com.example.hw18.presentation.viewModel.MakingPhotosViewModelFactory
-import com.hw18.databinding.FragmentMakingPhotosBinding
+import com.example.hw18.databinding.FragmentMakingPhotosBinding
 import dagger.hilt.android.AndroidEntryPoint
 import kotlinx.coroutines.launch
 import java.text.SimpleDateFormat

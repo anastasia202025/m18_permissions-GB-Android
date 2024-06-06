@@ -4,7 +4,7 @@ import android.view.LayoutInflater
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
 import com.example.hw18.data.Photo
-import com.hw18.databinding.ItemPhotoBinding
+import com.example.hw18.databinding.ItemPhotoBinding
 
 class ListPhotoAdapter(var photos: List<Photo>) : RecyclerView.Adapter<PhotoViewHolder>() {
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): PhotoViewHolder {

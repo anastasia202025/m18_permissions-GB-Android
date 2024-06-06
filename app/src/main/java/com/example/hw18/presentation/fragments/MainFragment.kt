@@ -8,11 +8,11 @@ import androidx.fragment.app.Fragment
 import androidx.fragment.app.viewModels
 import androidx.lifecycle.lifecycleScope
 import androidx.recyclerview.widget.GridLayoutManager
+import com.example.hw18.R
+import com.example.hw18.databinding.FragmentMainBinding
 import com.example.hw18.presentation.adapter.ListPhotoAdapter
 import com.example.hw18.presentation.viewModel.MainViewModel
 import com.example.hw18.presentation.viewModel.MainViewModelFactory
-import com.hw18.R
-import com.hw18.databinding.FragmentMainBinding
 import dagger.hilt.android.AndroidEntryPoint
 import kotlinx.coroutines.launch
 import javax.inject.Inject

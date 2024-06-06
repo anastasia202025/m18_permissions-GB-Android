@@ -7,11 +7,11 @@ plugins {
 }
 
 android {
-    namespace = "com.hw18"
+    namespace = "com.example.hw18"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.hw18"
+        applicationId = "com.example.hw18"
         minSdk = 24
         targetSdk = 34
         versionCode = 1

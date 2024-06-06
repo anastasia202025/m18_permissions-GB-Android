@@ -3,7 +3,7 @@ package com.example.hw18.presentation.adapter
 import androidx.recyclerview.widget.RecyclerView
 import com.bumptech.glide.Glide
 import com.example.hw18.data.Photo
-import com.hw18.databinding.ItemPhotoBinding
+import com.example.hw18.databinding.ItemPhotoBinding
 
 class PhotoViewHolder(private val binding: ItemPhotoBinding) :
     RecyclerView.ViewHolder(binding.root) {

@@ -3,7 +3,7 @@ package com.example.hw18.presentation
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
-import com.hw18.R
+import com.example.hw18.R
 import dagger.hilt.android.AndroidEntryPoint
 
 @AndroidEntryPoint
